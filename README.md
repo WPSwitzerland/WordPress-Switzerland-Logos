@@ -10,6 +10,12 @@ The Swiss Wapuu was [first published](https://wapu.us/wapuu/swiss-wapuu/) in 201
 
 ![Two versions of the Swiss Wapuu](https://user-images.githubusercontent.com/1571592/170655675-c5350748-8904-4b13-83cc-6470f10b433a.png)
 
+## WordCamp Switzerland 2023
+
+![Wapuu for WordCamp Switzerland 2023](WordCamp Switzerland 2023.png)
+
+![Outline Wapuu for WordCamp Switzerland 2023](WordCamp Switzerland 2023 outline.png)
+
 # Usage
 
 The files in this repository can be used for WordPress Meetups and WordCamps, which are open for everyone, without any attribution.
