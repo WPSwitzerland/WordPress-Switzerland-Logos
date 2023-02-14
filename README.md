@@ -12,7 +12,10 @@ The Swiss Wapuu was [first published](https://wapu.us/wapuu/swiss-wapuu/) in 201
 
 ## WordCamp Switzerland 2023
 
-| ![Wapuu for WordCamp Switzerland 2023](WordCamp%20Switzerland%202023.png) | ![Outline Wapuu for WordCamp Switzerland 2023](WordCamp%20Switzerland%202023%20outline.png) |
+| Full-colour  | Outline |
+| ------------- | ------------- |
+| ![Wapuu for WordCamp Switzerland 2023](WordCamp%20Switzerland%202023.png)  | ![Outline Wapuu for WordCamp Switzerland 2023](WordCamp%20Switzerland%202023%20outline.png)  |
+
 
 # Usage
 
